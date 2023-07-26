@@ -1,0 +1,1 @@
+Initial experimental script made in the main branch. This script now is a stable version fro people to use and slightly modify in their own personal branches.
