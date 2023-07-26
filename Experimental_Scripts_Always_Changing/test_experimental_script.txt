@@ -1,1 +1,3 @@
 Initial experimental script made in the main branch. This script now is a stable version fro people to use and slightly modify in their own personal branches.
+
+Now I added something minor in my branch that doesn't need to be pulled by the main branch.
